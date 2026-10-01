@@ -1,0 +1,6 @@
+{
+  "name": "Velora SaaS - Institut de Beauté & Spa",
+  "description": "Plateforme de gestion haut de gamme pour instituts de beauté et spas : agenda intelligent, suivi clients, catalogue de prestations, équipe et finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
